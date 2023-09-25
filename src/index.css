@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'AirbnbCerealNormal';
+  src: url('../public/assets/fonts/AirbnbCereal_W_Lt.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'AirbnbCerealBold';
+  src: url('../public/assets/fonts/AirbnbCereal_W_Blk.otf') format("opentype");
+}
